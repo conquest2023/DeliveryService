@@ -1,8 +1,7 @@
-package org.delivery.api.commom.error;
+package org.delivery.api.common.error;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import org.springframework.http.HttpStatus;
 
 @AllArgsConstructor
 @Getter
