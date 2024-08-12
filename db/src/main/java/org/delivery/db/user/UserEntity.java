@@ -1,11 +1,11 @@
-package org.delivery.db.user.repository;
+package org.delivery.db.user;
 
 
 
 import jakarta.persistence.*;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
-import org.delivery.db.user.BaseEntity;
+import org.delivery.db.BaseEntity;
 import org.delivery.db.user.enums.UserStatus;
 
 import java.time.LocalDateTime;

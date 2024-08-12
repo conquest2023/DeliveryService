@@ -1,5 +1,6 @@
-package org.delivery.db.user.repository;
+package org.delivery.db.user;
 
+import org.delivery.db.user.UserEntity;
 import org.delivery.db.user.enums.UserStatus;
 import org.springframework.data.jpa.repository.JpaRepository;
 
